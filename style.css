@@ -1,0 +1,22 @@
+h1{
+    color: brown;
+    
+}
+.red-red{
+    color: aqua;
+    
+    
+}
+.red-red:hover{
+    color: rgb(255, 60, 0);
+.btn{
+    height: 30px;
+    width: 150px;
+    bac;
+}
+body{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
